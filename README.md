@@ -1,6 +1,5 @@
-# vue-router-cache
-
-> demo about cache router with keep-alive
+v
+e-router-cache
 
 ## Build Setup
 
@@ -26,3 +25,4 @@ npm run e2e
 # run all tests
 npm test
 ```
+demo about cache router  with keep-alive
